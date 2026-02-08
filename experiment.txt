@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line was added in the experiment branch!
+=======
+This line was added in the homework branch!
+>>>>>>> 4c2d96c (fix: replace experiment.txt with experiment in homework)
